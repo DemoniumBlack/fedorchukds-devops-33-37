@@ -59,6 +59,6 @@
 
 Ссылки на манифесты:
 
-Pod - https://github.com/DemoniumBlack/fedorchukds-devops-33-37/SRC/pod.yaml
+Pod - https://github.com/DemoniumBlack/fedorchukds-devops-33-37/blob/main/SRC/pod.yaml
 
-Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-37/SRC/service.yaml
+Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-37/blob/main/SRC/service.yaml
